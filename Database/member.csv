@@ -1,0 +1,6 @@
+member_id,nama,alamat,no_telepon,email,tanggal_lahir,passcode,status_keanggotaan,jumlah_pinjam_saat_ini,bobot_pinjam_saat_ini
+1,Agus Setiawan,Jl. Mangga No. 5. Jakarta,08111222333,agus.setiawan@gmail.com,1995-04-12,memberpass1,aktif,0,7
+2,Bella Nurmala,Jl. Apel No. 15. Bandung,08222333444,bella.nurmala@yahoo.com,1998-07-19,memberpass2,aktif,1,7
+3,Citra Dewi,Jl. Jeruk No. 25. Surabaya,08333444555,citra.dewi@gmail.com,1992-11-03,memberpass3,aktif,0,7
+4,Dodi Pratama,Jl. Durian No. 35. Yogyakarta,08444555666,dodi.pratama@outlook.com,1989-02-28,memberpass4,tidak aktif,0,7
+5,Eva Susanti,Jl. Rambutan No. 45. Semarang,08555666777,eva.susanti@gmail.com,1996-06-14,memberpass5,aktif,0,7
