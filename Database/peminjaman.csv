@@ -1,0 +1,4 @@
+peminjaman_id,tanggal_peminjaman,tenggat_pengembalian,tanggal_pengembalian,harga_peminjaman,member_id,user_id
+1,2023-10-01,2023-10-08,2023-10-07,5000,1,3
+2,2023-10-03,2023-10-10,2023-10-12,5000,2,4
+3,2023-10-05,2023-10-12,,5000,3,5
