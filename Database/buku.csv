@@ -1,0 +1,6 @@
+buku_id,judul_buku,isbn,tahun_terbit,penerbit,genre_id,status_buku,jumlah_peminjaman,posisi_lantai,posisi_rak,posisi_nomor,bobot
+1,Laskar Pelangi,9789793062792,2005,Bentang Pustaka,1,ada,50,1,A,1,5
+2,Bumi Manusia,9789792238280,1980,Hasta Mitra,1,ada,30,1,A,2,4
+3,Harry Potter dan Batu Bertuah,9786020386948,1997,Gramedia Pustaka Utama,1,tidak ada,120,1,B,1,7
+4,Filosofi Teras,9786024248105,2018,Kompas,2,ada,80,2,K,1,6
+5,Sapiens: Riwayat Singkat Umat Manusia,9786024248334,2011,Kepustakaan Populer Gramedia,3,ada,90,2,L,1,8
