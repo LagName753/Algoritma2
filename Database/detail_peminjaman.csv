@@ -1,0 +1,5 @@
+detail_id,peminjaman_id,buku_id,status_peminjaman
+1,1,1,selesai
+2,1,2,selesai
+3,2,3,terlambat
+4,3,4,terpinjam
